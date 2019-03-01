@@ -73,11 +73,28 @@ footer {
    width: 100%;
    position:absolute;
    bottom:0;
-   background-color: gray;
+   padding: 10px;
+   background-color:rgb(242, 242, 242);
+   font-size: 12px;
+   color: rgba(0,0,0,.54)
 }
 
-footer tr {
-    
-    background-color: gray;
+footer table {
+    display: table;
+    width: 100%;
+}
+
+.space {
+    width: 40%;
+}
+
+.right {
+    text-align: right;
+}
+
+footer td {
+    width: 120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
