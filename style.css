@@ -25,3 +25,22 @@ header li {
 .login a {
     color: white;
 }
+
+/* Body Area */
+
+.search {
+    text-align: center;
+}
+
+.search img {
+    margin-top: 180px;
+    height: auto;
+    width: 400px;
+}
+ 
+
+.search #keywords {
+    
+    width: 500px;
+    height: 40px;
+}
