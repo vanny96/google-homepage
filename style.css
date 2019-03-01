@@ -35,12 +35,30 @@ header li {
 .search img {
     margin-top: 180px;
     height: auto;
-    width: 400px;
+    width: 300px;
 }
  
 
 .search #keywords {
-    
+    margin-top: 30px;
     width: 500px;
     height: 40px;
 }
+
+.search .box {
+    font-size:12px;
+    width:170px;
+    height:30px;
+    margin-right: 10px;
+    margin-top: 20px;
+    background-color:#eaeaea;
+    border: 1px solid white;
+    font-weight: bold;
+    color: #757575;
+}
+
+.search .box:hover {
+    color: black;
+    border: 1px solid black;
+}
+
