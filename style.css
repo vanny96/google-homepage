@@ -3,8 +3,33 @@ header ul {
     font-size: 12px;
 }
 
+header ul a {
+    text-decoration: none;
+    color: black;
+}
+
 header li {
     display: inline-block;
     margin-right: 30px;
     margin-top: 15px;
+}
+
+.strange {
+    background-image: url('//ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+    padding: 10px 10px;
+    height: 20;
+}
+
+.strange a {
+    
+}
+
+.login {
+    background-color: #4583ec;
+    padding: 8px 10px; 
+
+}
+
+.login a {
+    color: white;
 }
